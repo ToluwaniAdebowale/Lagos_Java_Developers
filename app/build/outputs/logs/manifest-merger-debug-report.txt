@@ -1,0 +1,110 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Adeglo\Lagos_Java_Developers\app\src\main\AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from C:\Users\Adeglo\Lagos_Java_Developers\app\src\main\AndroidManifest.xml:3:5-45
+		INJECTED from C:\Users\Adeglo\Lagos_Java_Developers\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Adeglo\Lagos_Java_Developers\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Adeglo\Lagos_Java_Developers\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Adeglo\Lagos_Java_Developers\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Adeglo\Lagos_Java_Developers\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\Adeglo\Lagos_Java_Developers\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Adeglo\Lagos_Java_Developers\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Adeglo\Lagos_Java_Developers\app\src\main\AndroidManifest.xml:4:5-78
+	android:name
+		ADDED from C:\Users\Adeglo\Lagos_Java_Developers\app\src\main\AndroidManifest.xml:4:22-76
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Adeglo\Lagos_Java_Developers\app\src\main\AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from C:\Users\Adeglo\Lagos_Java_Developers\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from C:\Users\Adeglo\Lagos_Java_Developers\app\src\main\AndroidManifest.xml:7:5-24:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Adeglo\.android\build-cache\c4134090c4c52b2e7c80c03fb2a2e72babe0be8e\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Adeglo\.android\build-cache\a17bb9e67f5945eaf77fa4a19c6c939f2ca5e509\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Adeglo\.android\build-cache\050e70ed6aa082260c82860a5c16865d65c958aa\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Adeglo\.android\build-cache\1e29ed71b653c4103e8a383760cba0b4928db5a2\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Adeglo\.android\build-cache\f8a582e96ffdf3b955ed6063111fa71aef16571a\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Adeglo\.android\build-cache\d4b4b8f11c54fd4554bfdfbf89ab6e6bf1339bac\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Adeglo\.android\build-cache\8ccb602acd1ac527c340c891cd49a066d33f9246\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha7] C:\Users\Adeglo\.android\build-cache\e07d19cd19242871fde6e66c56caa7b04067d13b\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Adeglo\.android\build-cache\4080767a9edbba909bb9f0dc31e8185ed1f87235\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Adeglo\.android\build-cache\9ee9e9404d1e070d3df1517df5a6ac4cafc26682\output\AndroidManifest.xml:29:5-20
+MERGED from [de.hdodenhof:circleimageview:2.0.0] C:\Users\Adeglo\.android\build-cache\9ae2f41c2b712a8a6672de92d45eab13bc882343\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] C:\Users\Adeglo\.android\build-cache\31477d9957fc0a1309cbc9feccbc6fc93233de58\output\AndroidManifest.xml:26:5-20
+	android:label
+		ADDED from C:\Users\Adeglo\Lagos_Java_Developers\app\src\main\AndroidManifest.xml:10:9-46
+	android:supportsRtl
+		ADDED from C:\Users\Adeglo\Lagos_Java_Developers\app\src\main\AndroidManifest.xml:12:9-35
+	android:roundIcon
+		ADDED from C:\Users\Adeglo\Lagos_Java_Developers\app\src\main\AndroidManifest.xml:11:9-54
+	android:allowBackup
+		ADDED from C:\Users\Adeglo\Lagos_Java_Developers\app\src\main\AndroidManifest.xml:8:9-35
+	android:icon
+		ADDED from C:\Users\Adeglo\Lagos_Java_Developers\app\src\main\AndroidManifest.xml:9:9-43
+	android:theme
+		ADDED from C:\Users\Adeglo\Lagos_Java_Developers\app\src\main\AndroidManifest.xml:13:9-40
+activity#com.adeglo.lagosJavaDevelopers.MainActivity
+ADDED from C:\Users\Adeglo\Lagos_Java_Developers\app\src\main\AndroidManifest.xml:14:9-21:20
+	android:screenOrientation
+		ADDED from C:\Users\Adeglo\Lagos_Java_Developers\app\src\main\AndroidManifest.xml:15:13-49
+	android:name
+		ADDED from C:\Users\Adeglo\Lagos_Java_Developers\app\src\main\AndroidManifest.xml:14:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Adeglo\Lagos_Java_Developers\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Adeglo\Lagos_Java_Developers\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from C:\Users\Adeglo\Lagos_Java_Developers\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Adeglo\Lagos_Java_Developers\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from C:\Users\Adeglo\Lagos_Java_Developers\app\src\main\AndroidManifest.xml:19:27-74
+activity#com.adeglo.lagosJavaDevelopers.ProfileView
+ADDED from C:\Users\Adeglo\Lagos_Java_Developers\app\src\main\AndroidManifest.xml:22:9-23:51
+	android:screenOrientation
+		ADDED from C:\Users\Adeglo\Lagos_Java_Developers\app\src\main\AndroidManifest.xml:23:13-49
+	android:name
+		ADDED from C:\Users\Adeglo\Lagos_Java_Developers\app\src\main\AndroidManifest.xml:22:19-46
+uses-sdk
+INJECTED from C:\Users\Adeglo\Lagos_Java_Developers\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Adeglo\.android\build-cache\c4134090c4c52b2e7c80c03fb2a2e72babe0be8e\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Adeglo\.android\build-cache\a17bb9e67f5945eaf77fa4a19c6c939f2ca5e509\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Adeglo\.android\build-cache\050e70ed6aa082260c82860a5c16865d65c958aa\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Adeglo\.android\build-cache\1e29ed71b653c4103e8a383760cba0b4928db5a2\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Adeglo\.android\build-cache\f8a582e96ffdf3b955ed6063111fa71aef16571a\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Adeglo\.android\build-cache\d4b4b8f11c54fd4554bfdfbf89ab6e6bf1339bac\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Adeglo\.android\build-cache\8ccb602acd1ac527c340c891cd49a066d33f9246\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha7] C:\Users\Adeglo\.android\build-cache\e07d19cd19242871fde6e66c56caa7b04067d13b\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\Adeglo\.android\build-cache\c95f7f48cfa93b0b9d1954de2c9e373fd094d07f\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Adeglo\.android\build-cache\4080767a9edbba909bb9f0dc31e8185ed1f87235\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Adeglo\.android\build-cache\9ee9e9404d1e070d3df1517df5a6ac4cafc26682\output\AndroidManifest.xml:21:5-23:58
+MERGED from [de.hdodenhof:circleimageview:2.0.0] C:\Users\Adeglo\.android\build-cache\9ae2f41c2b712a8a6672de92d45eab13bc882343\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] C:\Users\Adeglo\.android\build-cache\31477d9957fc0a1309cbc9feccbc6fc93233de58\output\AndroidManifest.xml:20:5-44
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Adeglo\.android\build-cache\c4134090c4c52b2e7c80c03fb2a2e72babe0be8e\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\Adeglo\Lagos_Java_Developers\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Adeglo\Lagos_Java_Developers\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Adeglo\Lagos_Java_Developers\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Adeglo\Lagos_Java_Developers\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Adeglo\.android\build-cache\c4134090c4c52b2e7c80c03fb2a2e72babe0be8e\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Adeglo\.android\build-cache\a17bb9e67f5945eaf77fa4a19c6c939f2ca5e509\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Adeglo\.android\build-cache\050e70ed6aa082260c82860a5c16865d65c958aa\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Adeglo\.android\build-cache\1e29ed71b653c4103e8a383760cba0b4928db5a2\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Adeglo\.android\build-cache\f8a582e96ffdf3b955ed6063111fa71aef16571a\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Adeglo\.android\build-cache\d4b4b8f11c54fd4554bfdfbf89ab6e6bf1339bac\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Adeglo\.android\build-cache\8ccb602acd1ac527c340c891cd49a066d33f9246\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\Adeglo\.android\build-cache\c95f7f48cfa93b0b9d1954de2c9e373fd094d07f\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Adeglo\.android\build-cache\4080767a9edbba909bb9f0dc31e8185ed1f87235\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Adeglo\.android\build-cache\9ee9e9404d1e070d3df1517df5a6ac4cafc26682\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] C:\Users\Adeglo\.android\build-cache\31477d9957fc0a1309cbc9feccbc6fc93233de58\output\AndroidManifest.xml:22:5-24:41
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Adeglo\.android\build-cache\c4134090c4c52b2e7c80c03fb2a2e72babe0be8e\output\AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Adeglo\.android\build-cache\c4134090c4c52b2e7c80c03fb2a2e72babe0be8e\output\AndroidManifest.xml:26:9-47
